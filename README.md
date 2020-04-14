@@ -4,9 +4,6 @@
 
 
 ### This App is built with Javascript and utilizes Node.js
-
-
-
 ## Technologies Utilized 
   * JavaScript
   * Node.Js
