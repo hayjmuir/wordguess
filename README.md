@@ -13,8 +13,8 @@
   * Inqurier
   
   
-[wordguess](https://github.com/hayjmuir/wordguess/blob/master/images/Annotation%202020-04-14%20150559.jpg)
+![wordguess](https://github.com/hayjmuir/wordguess/blob/master/images/Annotation%202020-04-14%20150559.jpg)
 
-[wordguess](https://github.com/hayjmuir/wordguess/blob/master/images/Annotation%202020-04-14%20150611.jpg)
+![wordguess](https://github.com/hayjmuir/wordguess/blob/master/images/Annotation%202020-04-14%20150611.jpg)
 
 
